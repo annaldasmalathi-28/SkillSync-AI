@@ -1,0 +1,6 @@
+{
+  "name": "SkillSync AI",
+  "description": "Student career intelligence platform to verify skills, identify gaps, follow personalized roadmaps, discover internships, and build high-impact tech careers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
